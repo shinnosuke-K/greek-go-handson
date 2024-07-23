@@ -9,11 +9,11 @@ Goland を使用している人はこのリポジトリをダウンロードし�
 
 
 ### VSCode 向け
-Dev Container という仕組みを使うのであらかじめ以下をダウンロードしてください
+Dev Container という仕組みを使うのであらかじめ以下をダウンロードしてください。
 - [Docker](https://docs.docker.com/get-docker/)
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
-上記のツールをダウンロードできたら、自身の PC にこのリポジトリを clone や fork などをしてください。
+上記のツールの用意ができたら、このリポジトリを clone や fork などをして自身の PC にダウンロードしてください。
 
 Dev Container の設定はあらかじめ用意しているので起動させてください。
 
