@@ -13,7 +13,9 @@ Dev Container という仕組みを使うのであらかじめ以下をダウン
 - [Docker](https://docs.docker.com/get-docker/)
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
-上記のツールの用意ができたら、このリポジトリを clone や fork などをして自身の PC にダウンロードしてください。
+上記のツールの用意ができたら、
+
+このリポジトリを clone や fork などをして自身の PC にダウンロードしてください。
 
 Dev Container の設定はあらかじめ用意しているので起動させてください。
 
